@@ -1,0 +1,6 @@
+@TokenWithRolesBasedIdentity_HostAddress = http://localhost:5283
+
+GET {{TokenWithRolesBasedIdentity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
